@@ -8,5 +8,8 @@ Everything started with thinking. When I start thinking, you don´t want to see 
 
 And this is how I started this project :)
 
-- [ ] Complete readme.md
+- [x] Complete readme.md
+
 - [ ] Complete basic index.html
+
+- [ ] Upload first verion
