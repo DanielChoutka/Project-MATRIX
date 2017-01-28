@@ -8,6 +8,7 @@ Everything started with thinking. When I start thinking, you don´t want to see 
 
 And this is how I started this project :)
 
+###First tasks
 - [x] Complete readme.md
 
 - [ ] Complete basic index.html
